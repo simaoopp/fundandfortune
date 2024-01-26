@@ -99,11 +99,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "12057872524453573572"
+        "hash": "9517311329367041774"
       },
       {
         "file": "package.json",
-        "hash": "12911771959437412606"
+        "hash": "15511954895971826388"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -127,7 +127,7 @@
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "5073765293049625490"
+        "hash": "3714827702051001351"
       },
       {
         "file": "src/app/home/home-routing.module.ts",
@@ -139,11 +139,11 @@
       },
       {
         "file": "src/app/home/home.page.html",
-        "hash": "3668328913015384273"
+        "hash": "9465048930402760214"
       },
       {
         "file": "src/app/home/home.page.scss",
-        "hash": "14250411118003398491"
+        "hash": "12666025235155472518"
       },
       {
         "file": "src/app/home/home.page.spec.ts",
@@ -156,6 +156,10 @@
       {
         "file": "src/assets/icon/favicon.png",
         "hash": "17482944836898362639"
+      },
+      {
+        "file": "src/assets/icon/metodo.png",
+        "hash": "2506577771776929115"
       },
       {
         "file": "src/assets/shapes.svg",
@@ -179,7 +183,7 @@
       },
       {
         "file": "src/main.ts",
-        "hash": "3447864527603543144"
+        "hash": "11803948974086278668"
       },
       {
         "file": "src/polyfills.ts",
@@ -191,7 +195,7 @@
       },
       {
         "file": "src/theme/variables.scss",
-        "hash": "10683809365950317113"
+        "hash": "3849353888137704809"
       },
       {
         "file": "src/zone-flags.ts",
@@ -199,7 +203,7 @@
       },
       {
         "file": "tsconfig.app.json",
-        "hash": "9041030522571917449"
+        "hash": "11474309097541706346"
       },
       {
         "file": "tsconfig.json",
@@ -207,7 +211,7 @@
       },
       {
         "file": "tsconfig.spec.json",
-        "hash": "17198424518534092990"
+        "hash": "16809514954184988286"
       }
     ]
   }
